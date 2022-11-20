@@ -1,0 +1,1 @@
+Error in call to API function "files/download": Bad HTTP "Content-Type" header: "application/json,application/octet-stream".  Expecting one of "text/plain", "text/plain; charset=utf-8", "application/octet-stream", "application/octet-stream; charset=utf-8".
