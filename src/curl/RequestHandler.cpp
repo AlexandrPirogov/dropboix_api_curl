@@ -280,7 +280,7 @@ void RequestHandler::printResponse(std::string response)
     }
 
 
-    std::string SuccessMessage = "\n\n\n+-------------OK!-------------+\n";
+    std::string SuccessMessage = "\n\n\n+----------------OK!---------------+\n";
     SuccessMessage +=                  "|           We did it (^_^)        |\n";
     SuccessMessage +=                  "+----------------------------------+\n";
     std::cout << SuccessMessage<<'\n';
