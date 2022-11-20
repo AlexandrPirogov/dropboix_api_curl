@@ -9,10 +9,10 @@ sudo apt-get install cmake g++ curl nlohmann-json3-dev
 ----
 ```sh
 1. Clone this repo
-2. cd build
+2. mkdir build && cd build
 3. sudo cmake ../
-4. make
-5. (Optional) make install
+4. sudo make
+5. sudo make install
 ```
 # How to start
 
