@@ -13,6 +13,9 @@ using json = nlohmann::json;
 
 /**
  * Enum to escape writing URL as const char*
+ * 
+ * P.S. До этого не имел опыта работы с libcurl, поэтому тут отвратительный код с кучей именовваых констант
+ * , нарушение DRY, KISS, SOLID...
 */
 enum DROPBOX_API_URLS
 {
