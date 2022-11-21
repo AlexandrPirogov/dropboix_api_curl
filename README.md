@@ -4,7 +4,7 @@
 
 Install required dependecies:
 ```sh
-sudo apt-get install cmake g++ curl nlohmann-json3-dev libcurl4-gnutls-dev
+sudo apt-get install cmake g++ curl nlohmann-json3-dev libcurl4-gnutls-dev libgtest-dev
 ```
 ----
 ```sh
